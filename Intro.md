@@ -10,7 +10,8 @@ There can be many collections per database and many documents per collection.
 #### Document
 Stores a set of field-value pairs.
 ```{
+{
  <field> : <value>,
  <field> : <value>,
  <field> : <value>
-}`
+}
